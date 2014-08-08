@@ -1,6 +1,6 @@
 # Deploying our blog to Heroku
 Today we were basically following [this tutorial](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-First we reviewed the Heroku intro deck slides: 
+First we reviewed the Heroku intro deck slides: https://files.gitter.im/codefellows/sea-b20-javascript/s75S/cf_heroku.pdf
 
 ```
  cd blog-test
